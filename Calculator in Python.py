@@ -1,0 +1,23 @@
+from math import comb
+
+while True: 
+    num1 = float(input("1st num: "))
+    operator = input("enter the operator: ")
+    num2 = float(input("2nd num: "))
+
+    if operator == "+":
+        print(num1 + num2)
+    elif operator == "-":
+        print(num1 - num2)
+    elif operator == "*":
+        print(num1 * num2)
+    elif operator == "/":
+        print(num1 / num2)
+    elif operator == "\\":
+        print("The operation is wrong\nRemember: divide is\"/\"")
+    elif operator == "^":
+        print(pow(num1, num2))
+    elif operator == "c" or operator == "C":
+        print(comb(int(num1), int(num2)))
+    else:
+        print("the operation is wrong")        
