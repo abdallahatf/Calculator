@@ -31,12 +31,16 @@
     <tr>
         <td>
             New operations:
+            <br>
              - Subtraction, Multiplication, Division, Exponentiation.
             <br>
+            <br>
             New Math technique:
+            <br>
              - Combination.
             <br>
-             - The window no longer closes afte the program ends.
+            <br>
+             - The window no longer closes after the program ends.
         </td>
         <td>
             10 Mar 2023 (almost)
