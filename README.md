@@ -25,7 +25,7 @@
             28 Aug 2022 (almost)
         </td> 
         <td>
-            <a href= "https://github.com/abdallahatf/Calculator/blob/main/Calculator%20in%20Python%20V%200.0.py"> V 0.00 </a>
+            <a href= "https://github.com/abdallahatf/Calculator/blob/main/Calculator%20in%20Python%20V%200.0.py"> V 0.0 </a>
         </td>
     </tr>
     <tr>
