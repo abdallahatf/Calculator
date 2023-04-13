@@ -1,5 +1,5 @@
 # Calculator
-<h3> My training Project </h3>
+<h3> My training Projects </h3>
 <br>
 <b> if you have any feedback about anything, please tell me </b>
 <br>
