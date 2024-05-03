@@ -1,5 +1,5 @@
-# Calculator <br>
-<b> if you have any feedback about anything, please tell me </b> <br> <br> <br>
+<h1>Calculator</h1> <br>
+if you have any feedback about anything, please tell me<br> <br> <br>
 <table>
     <tr>
         <th>
@@ -57,4 +57,8 @@
             <a href = "https://github.com/abdallahatf/Projects/blob/main/Calculator/in%20Python/Calculator%20in%20Python%20V%200.6.py"> V 0.6 </a>
         </td>
     </tr>
-</table>
+</table> <br> <br>
+<h1>YVD (YouTube Video Downloader) </h1> <br>
+Note: I create this app to help us in downloding <b>Non-Copyrighted Vidoes</b> such as Some <i>Eductional, Religion, etc...</i> Videos
+and i am not responsible for any Copyright infringement such as <i>downloading Copyrighted Video</i>. <br> <br>
+<h3>Soon...</h3>
